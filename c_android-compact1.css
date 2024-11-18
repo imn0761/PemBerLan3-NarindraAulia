@@ -1,0 +1,233 @@
+.c_android-compact1-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 412px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #000;
+}
+
+.c_android-compact1-rectangle {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 297px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.c_android-compact1-text {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text01 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Roboto",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-rectangle1 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 297px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.c_android-compact1-text02 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text03 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Roboto",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-text04 {
+  width: 100%;
+  max-width: 128px;
+  margin-top: 0;
+  min-height: 23px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text05 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Roboto",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-text06 {
+  width: 100%;
+  max-width: 111px;
+  margin-top: 0;
+  min-height: 23px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text07 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Roboto",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-rectangle2,
+.c_android-compact1-rectangle3 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 41px;
+}
+
+.c_android-compact1-rectangle3 {
+  max-width: 35px;
+}
+
+.c_android-compact1-text08 {
+  width: 100%;
+  max-width: 236px;
+  margin-top: 0;
+  min-height: 23px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text09 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Roboto",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-text10 {
+  width: 100%;
+  max-width: 89px;
+  margin-top: 0;
+  min-height: 37px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text11 {
+  color: #0021fa;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-text12 {
+  width: 100%;
+  max-width: 44px;
+  margin-top: 0;
+  min-height: 11px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text13 {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Roboto",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-text14 {
+  width: 100%;
+  max-width: 188px;
+  margin-top: 0;
+  min-height: 22px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_android-compact1-text15 {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_android-compact1-rectangle4 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 282px;
+}
